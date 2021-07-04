@@ -4,6 +4,4 @@ Kygekraqmak's GitHub account has been renamed to [KygekDev](https://github.com/K
 
 ### Proof
 
-The below 20 character string should match with [KygekDev's](https://github.com/KygekDev) profile string.
-
-`DZZjWy0NmB5DBRyVJoQE`
+Just see old commits in the [@KygekTeam](https://github.com/KygekTeam) GitHub organization.
